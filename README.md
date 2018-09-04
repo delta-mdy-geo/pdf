@@ -17,18 +17,18 @@ This is word file and power point.
 						Mg Kaung Myat Thu 
 						Ma Hla Yamin Htike
 						Ma Hnin Yu Aung
-UNIVERSITY OF COMPUTER STUDIES ( MANDALAY )
-Date  4.9.2018
+				UNIVERSITY OF COMPUTER STUDIES ( MANDALAY )
+						Date  4.9.2018
 
 
-Group Members
-Roll No	Name	Signature	Date
-5CS-25	Ma Khin Su Myat Noe		
-5CS-26	Ma Su Po Po		
-5CS-27	Mg Han Htun Aung		
-5CS-28	Mg Kaung Myat Thu		
-5CS-29	Ma Hla Yamin Htike		
-5CS-30	Ma Hnin Yu Aung		
+						Group Members
+					Roll No	Name	Signature		Date
+					5CS-25		Ma Khin Su Myat Noe		
+					5CS-26		Ma Su Po Po		
+					5CS-27		Mg Han Htun Aung		
+					5CS-28		Mg Kaung Myat Thu		
+					5CS-29		Ma Hla Yamin Htike		
+					5CS-30		Ma Hnin Yu Aung		
 
 ( Project Supervisor Name ) 	Signature / Date 
 Daw Ank Phyu Win
