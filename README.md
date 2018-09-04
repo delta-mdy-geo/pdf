@@ -2,14 +2,19 @@
 This is word file and power point.
 
 						A PROJECT REPORT ON
+						
 						“APPs in Myanmar”
 							For
+							
 						   Company Name
 				GEO MANDALAR INVESTMENT & TECHNOLOGY Co.. ltd
+				
 						    Director
 						U Ravi Chhabra
-						   SUPERVISOR
+						
+						   SUPERVISOR   
 						Daw Ank Phyu Win
+						
 						Submitted by
 						Ma Khin Su Myat Noe
 						Ma Su Po Po
@@ -17,6 +22,7 @@ This is word file and power point.
 						Mg Kaung Myat Thu 
 						Ma Hla Yamin Htike
 						Ma Hnin Yu Aung
+						
 				UNIVERSITY OF COMPUTER STUDIES ( MANDALAY )
 						Date  4.9.2018
 
